@@ -1,7 +1,5 @@
 # Beginner DE Project - Batch Edition
 
-If you are interested in step by step explanation and review, check out the post for this repo at
-[project-for-beginners-batch-edition](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition)
 
 ## Prereq
 
